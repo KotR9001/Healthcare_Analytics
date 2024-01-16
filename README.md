@@ -13,7 +13,7 @@ Wrote joined data into a CSV file.<br />
 ![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/0db6fe02-9a57-4f5a-a841-0386c78f5d2d)<br />
 <br />
 Created a Linear Regression model.<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/81d2c317-d609-4bbf-9701-a0fdf4b247f7)<br />
+![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/e913809f-5947-446f-892a-df49ad97b9cd)<br />
 <br />
 Split the data into train & test sets.<br />
 ![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/18f50b71-0d9e-4168-843c-6d3ffbb4ec3b)<br />
