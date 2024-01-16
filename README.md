@@ -63,3 +63,5 @@ Showed the ANOVA tables' results in Power BI, ordered by coefficient values.<br 
 2. Immunizations against various viruses/diseases improves life expectancy and reduces adult mortality only modestly, but have a relatively more pronounced effect on reducing infant & under five deaths.<br />
 3. Calories from animal protein & fat tend to have negligible effects on life expectancy & mortality.<br />
 4. BMI has a very pronounced correlation with life expectancy (positive) & mortality (negative). It's unclear why this is the case, so more research may be warranted.<br />
+5. Incidents of HIV greatly reduce average life expectancy & increase mortality.
+6. Rates of alcohol consumption more moderately reduce average life expectancy & increase mortality.
