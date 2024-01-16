@@ -6,15 +6,6 @@ Created this project to determine the effect of various factors on life expectan
 Read in data from CSV files and performed joins.<br />
 ![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/4f6be456-45da-4e2c-b717-414c7154b092)<br />
 ![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/b183d291-7534-40b0-ab5a-df9c76c2b82a)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/227746f1-0f85-402d-a6b5-658817f9f911)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/f0437a1f-1b1f-4f6b-ad84-7cce82f5bb0a)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/3501428b-5e6b-4af2-a960-3e259758d7ec)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/83471353-ac96-47ae-9524-5f763749cfd4)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/e55e3780-f45a-4715-885d-b357b4ecbb4f)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/02261627-ec30-47bc-9b1b-e7368452ecc5)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/1448f0a2-b532-4d57-b804-1c8448c106a4)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/b399b407-dbeb-455d-9386-c93da5d98b0b)<br />
-![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/dd77e2f3-12d6-468b-96e4-0afde5792750)<br />
 ![image](https://github.com/KotR9001/Healthcare_Analytics/assets/57807780/e9fb7cc8-feb9-46c2-9068-d020522b90e8)<br />
 <br />
 <br />
